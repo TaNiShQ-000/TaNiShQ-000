@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanishq Jaiswal</h1>
-<h3 align="center">A passionate data science enthusiast from India</h3>
+<h3 align="center">A passionate backend/full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq-000&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq-000" /> </p>
 
-- 🔭 I’m currently working on **power consumption analysis/forecasting**
+- 🔭 I’m currently working on **Spotif-Ai this is a hybrid project for merging full stack development and machine learning**
 
-- 🌱 I’m currently learning **TensorFlow, DeepLearning, OpenCV**
+- 🌱 I’m currently highly skilled in  **React.js, Node.js, Express.js, MongoDB**
 
-- 💬 Ask me about **deep learning, regression, computer vision,NLP,**
+- 💬 Ask me about **MERN stack, Backend development, web applications ,deep learning, regression, computer vision,NLP,**
 
-- 📫 How to reach me **tanishq,jaiswal000@gmail.com**
+- 📫 How to reach me **tanishq.jaiswal000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
